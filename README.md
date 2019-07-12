@@ -33,8 +33,8 @@ what you have to do?
 Go in to the folder open the mailer_config.js file and place your mailgun_username and mailgun_password.
 
 ## crypto360.sql:
-This file is the database file. You just have to import this file.
-The DB user for the project is "root" and password is "1234".
-You can change the DB configuration in the following directories:
-Go to crypto360-backend => db => dbQueries.js 
+This file is the database file. You just have to import this file.  
+The DB user for the project is "root" and password is "1234".  
+You can change the DB configuration in the following directories:  
+Go to crypto360-backend => db => dbQueries.js  
 Go to btc-api => db => dbQueries.js 
