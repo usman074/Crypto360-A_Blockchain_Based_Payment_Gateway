@@ -1,0 +1,38 @@
+{
+  "name": "merchant-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.0.5",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "email-regex": "^3.0.0",
+    "express": "^4.16.4",
+    "express-ip-access-control": "^1.0.5",
+    "fs": "0.0.1-security",
+    "helmet": "^3.15.1",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "log4js": "^4.0.2",
+    "md5": "^2.2.1",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "node-graceful": "^1.0.1",
+    "node-yaml-config": "0.0.4",
+    "nodemailer": "^5.1.1",
+    "path": "^0.12.7",
+    "preconditions": "^2.2.3",
+    "randomstring": "^1.1.5",
+    "regex": "^0.1.1",
+    "url": "^0.11.0",
+    "uuid": "^3.3.2"
+  }
+}
