@@ -31,3 +31,10 @@ Go in to the folder open the mailer_config.js file and place your mailgun_userna
 This folder contains the code for gateway. It is also an api in node js. It has a route name /address and when you make a POST request to this route. It simply fethes your xpukey and generates an address and also calculate the btc price. Return the address and btc-price. A prallel process is also running in which the api continuously make a request to insight explorer and check for the status of all the unpaid addresses.  
 what you have to do?  
 Go in to the folder open the mailer_config.js file and place your mailgun_username and mailgun_password.
+
+## crypto360.sql:
+This file is the database file. You just have to import this file.
+The DB user for the project is "root" and password is "1234".
+You can change the DB configuration in the following directories:
+Go to crypto360-backend => db => dbQueries.js 
+Go to btc-api => db => dbQueries.js 
