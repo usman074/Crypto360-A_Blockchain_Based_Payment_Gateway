@@ -20,7 +20,7 @@
     "async": "^2.6.1",
     "auto-load": "^3.0.4",
     "autoload": "^0.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bip32": "^2.0.3",
     "bitcoinjs-lib": "^4.0.5",
     "body-parser": "^1.18.3",
